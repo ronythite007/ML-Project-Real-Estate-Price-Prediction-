@@ -8,11 +8,11 @@ This project predicts real estate property prices based on features like locatio
           - app.css
           - app.html
           - app.js
-    model-
+    model -
           - banglore_home_price.pickle
           - column.json
           - Real Estate Price Prediction Projec.ipynb(jupyter notebook)
-   server-
+    server-
           - server.py
           - utils.py
           - artifacts
