@@ -15,10 +15,8 @@ This project predicts real estate property prices based on features like locatio
    server-
           - server.py
           - utils.py
-          - artifacts-
-                      - banglore_home_price.pickle
-                      - column.json
-                      
+          - artifacts
+                
 ## 🚀 Objective
 - Predict property prices accurately.
 - Identify key factors influencing prices.
