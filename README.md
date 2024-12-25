@@ -50,7 +50,4 @@ This project predicts real estate property prices based on features like locatio
 - **Name:** Rohan Rajendra Thite
 - **Email:** rohanthite9293@gmail.com
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ⭐ **Star this repository if you found it helpful!** ⭐
